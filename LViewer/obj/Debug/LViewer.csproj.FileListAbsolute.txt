@@ -1,0 +1,10 @@
+C:\Users\Le Quoc Thang\source\repos\LViewer\LViewer\bin\Debug\LViewer.exe.config
+C:\Users\Le Quoc Thang\source\repos\LViewer\LViewer\bin\Debug\LViewer.exe
+C:\Users\Le Quoc Thang\source\repos\LViewer\LViewer\bin\Debug\LViewer.pdb
+C:\Users\Le Quoc Thang\source\repos\LViewer\LViewer\obj\Debug\LViewer.csprojAssemblyReference.cache
+C:\Users\Le Quoc Thang\source\repos\LViewer\LViewer\obj\Debug\LViewer.Properties.Resources.resources
+C:\Users\Le Quoc Thang\source\repos\LViewer\LViewer\obj\Debug\LViewer.csproj.GenerateResource.cache
+C:\Users\Le Quoc Thang\source\repos\LViewer\LViewer\obj\Debug\LViewer.csproj.CoreCompileInputs.cache
+C:\Users\Le Quoc Thang\source\repos\LViewer\LViewer\obj\Debug\LViewer.exe
+C:\Users\Le Quoc Thang\source\repos\LViewer\LViewer\obj\Debug\LViewer.pdb
+C:\Users\Le Quoc Thang\source\repos\LViewer\LViewer\obj\Debug\LViewer.Form_Main.resources
