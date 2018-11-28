@@ -46,6 +46,7 @@
             this.button_Sender = new System.Windows.Forms.Button();
             this.textBox_Input = new System.Windows.Forms.TextBox();
             this.listBox_Status = new System.Windows.Forms.ListBox();
+            this.label_ClientName = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -177,9 +178,9 @@
             // 
             // textBox_Input
             // 
-            this.textBox_Input.Location = new System.Drawing.Point(324, 403);
+            this.textBox_Input.Location = new System.Drawing.Point(287, 438);
             this.textBox_Input.Name = "textBox_Input";
-            this.textBox_Input.Size = new System.Drawing.Size(705, 22);
+            this.textBox_Input.Size = new System.Drawing.Size(742, 22);
             this.textBox_Input.TabIndex = 9;
             this.textBox_Input.TextChanged += new System.EventHandler(this.textBox_Input_TextChanged);
             // 
@@ -187,10 +188,19 @@
             // 
             this.listBox_Status.FormattingEnabled = true;
             this.listBox_Status.ItemHeight = 16;
-            this.listBox_Status.Location = new System.Drawing.Point(287, 32);
+            this.listBox_Status.Location = new System.Drawing.Point(287, 78);
             this.listBox_Status.Name = "listBox_Status";
             this.listBox_Status.Size = new System.Drawing.Size(750, 340);
             this.listBox_Status.TabIndex = 10;
+            // 
+            // label_ClientName
+            // 
+            this.label_ClientName.AutoSize = true;
+            this.label_ClientName.Location = new System.Drawing.Point(335, 45);
+            this.label_ClientName.Name = "label_ClientName";
+            this.label_ClientName.Size = new System.Drawing.Size(46, 17);
+            this.label_ClientName.TabIndex = 11;
+            this.label_ClientName.Text = "label1";
             // 
             // Form_Main
             // 
@@ -198,6 +208,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(1170, 526);
+            this.Controls.Add(this.label_ClientName);
             this.Controls.Add(this.listBox_Status);
             this.Controls.Add(this.textBox_Input);
             this.Controls.Add(this.button_Sender);
@@ -237,6 +248,7 @@
         private System.Windows.Forms.Button button_Sender;
         private System.Windows.Forms.TextBox textBox_Input;
         private System.Windows.Forms.ListBox listBox_Status;
+        private System.Windows.Forms.Label label_ClientName;
     }
 }
 
