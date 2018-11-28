@@ -9,3 +9,14 @@ C:\Users\Le Quoc Thang\source\repos\LViewer\LViewer_Client\obj\Debug\LViewer_Cli
 C:\Users\Le Quoc Thang\source\repos\LViewer\LViewer_Client\obj\Debug\LViewer_Client.pdb
 C:\Users\Le Quoc Thang\source\repos\LViewer\LViewer_Client\obj\Debug\LViewer_Client.Form_Login.resources
 C:\Users\Le Quoc Thang\source\repos\LViewer\LViewer_Client\obj\Debug\LViewer_Client.Form_Main.resources
+C:\Users\Le Quoc Thang\Documents\GitHub\LViewer\LViewer_Client\bin\Debug\LViewer_Client.exe.config
+C:\Users\Le Quoc Thang\Documents\GitHub\LViewer\LViewer_Client\bin\Debug\LViewer_Client.exe
+C:\Users\Le Quoc Thang\Documents\GitHub\LViewer\LViewer_Client\bin\Debug\LViewer_Client.pdb
+C:\Users\Le Quoc Thang\Documents\GitHub\LViewer\LViewer_Client\obj\Debug\LViewer_Client.csprojAssemblyReference.cache
+C:\Users\Le Quoc Thang\Documents\GitHub\LViewer\LViewer_Client\obj\Debug\LViewer_Client.Form_Login.resources
+C:\Users\Le Quoc Thang\Documents\GitHub\LViewer\LViewer_Client\obj\Debug\LViewer_Client.Form_Main.resources
+C:\Users\Le Quoc Thang\Documents\GitHub\LViewer\LViewer_Client\obj\Debug\LViewer_Client.Properties.Resources.resources
+C:\Users\Le Quoc Thang\Documents\GitHub\LViewer\LViewer_Client\obj\Debug\LViewer_Client.csproj.GenerateResource.cache
+C:\Users\Le Quoc Thang\Documents\GitHub\LViewer\LViewer_Client\obj\Debug\LViewer_Client.csproj.CoreCompileInputs.cache
+C:\Users\Le Quoc Thang\Documents\GitHub\LViewer\LViewer_Client\obj\Debug\LViewer_Client.exe
+C:\Users\Le Quoc Thang\Documents\GitHub\LViewer\LViewer_Client\obj\Debug\LViewer_Client.pdb
