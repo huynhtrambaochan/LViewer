@@ -295,6 +295,16 @@ namespace LViewer_Client
 
         }
 
+        private void textBox_Status_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listBox_Online_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
         //Hàm tạo số ngẫu nhiên từ 2->10000
         private int soNgauNhien()
         {
